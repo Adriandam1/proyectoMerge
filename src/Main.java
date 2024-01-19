@@ -7,6 +7,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         // commit A
+        // commit B
 
     }
 }
